@@ -1,5 +1,3 @@
-Certainly! Here's an example documentation for the file integrity monitoring project:
-
 ## File Integrity Monitor
 
 The File Integrity Monitor is a Python-based system that monitors the integrity of files on a computer system. It detects unauthorized changes or modifications to files, ensuring the security and integrity of the system.
